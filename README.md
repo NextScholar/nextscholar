@@ -16,23 +16,23 @@ NextScholar is an open-source AI-powered research platform that automates schola
 - 📝 **Accurate Draft Generation**: AI writing leveraging processed knowledge base
 - 🔄 **Simulation Reproduction**: Tools to validate and reproduce research results
 
-### ⚡ Feature Comparison
+### ⚡ Feature Comparison (Corrected June 2025)
 
 | Feature | NextScholar | Windsurf/Cursor | Manus AI | GitHub Copilot | Perplexity Pro | Jenni AI | Scholarcy |
 |---------|-------------|-----------------|----------|----------------|----------------|-----------|-----------|
-| **AI-Powered Research** | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| **AI-Powered Research** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Institutional Access** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **Multi-Agent System** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **Academic Team Collaboration** | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ |
+| **Multi-Agent Cooperation** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **Academic Team Collaboration** | ✅ | ❌ | ❌ | ❌ | ❌ | ✅| ❌ |
 | **Open Source** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | **Hybrid Database** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **Citation Management** | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ |
+| **Citation Management** | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ |
 | **Source vs Generated Review** | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ |
-| **Academic Focus** | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ |
-| **DeepSearch** | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ |
+| **Academic Focus** | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ |
+| **DeepSearch** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | **Long-term Workflow** | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| **Resources Management** | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ |
-| **Pricing** | Open Source (Self-host) / Hosted Services Available | Free / $20/month | Invitation Only | $10-19/month | $20/month | $12-20/month | Free / $5/month |
+| **Resources Management** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| **Pricing** | Open Source (Self-host) / Hosted Services Available | **Limited Free** / $10-20/month | $39-199/month | **Limited Free** (2K completions/month) / $10-39/month | **Limited Free** (3 Pro searches/day) / $20-40/month | **Limited Free** (200 words/day) / $12-20/month | **Limited Free** (Daily limits) / $5-15/month |
 
 ### 🔧 Integration & Workflow
 
